@@ -20,3 +20,6 @@ saved_models/
 # OS
 .DS_Store
 Thumbs.db
+
+# DVC tracked dataset
+data/diabetes.csv
