@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+numpy
+pandas
+scikit-learn
+xgboost
+torch
+torchvision
+torchaudio
+joblib
+matplotlib
+seaborn
+qiskit
+qiskit-machine-learning
+pennylane
+pennylane-qiskit
+imblearn
